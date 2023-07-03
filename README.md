@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 Pascal's Triangle
 
 
@@ -17,7 +17,6 @@ Create a function def pascal_triangle(n): that returns a list of lists of intege
     Returns an empty list if n <= 0
     You can assume n will be always an integer
 
-guillaume@ubuntu:~/0x00$ cat 0-main.py
 #!/usr/bin/python3
 """
 0-main
@@ -54,4 +53,3 @@ Repo:
 =======
 # alx-interview
 interview questions
->>>>>>> 2422c8a718c1c029239c6831a34719e13e13e28e
