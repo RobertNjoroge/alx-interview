@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pascal's Triangle
 
 
@@ -50,3 +51,7 @@ Repo:
     File: 0-pascal_triangle.py
 
 
+=======
+# alx-interview
+interview questions
+>>>>>>> 2422c8a718c1c029239c6831a34719e13e13e28e
